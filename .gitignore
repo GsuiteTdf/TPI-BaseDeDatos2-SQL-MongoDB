@@ -1,0 +1,10 @@
+# Credenciales locales de MongoDB Atlas (usar config.example.json como plantilla)
+config.json
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Respaldos generados por backup_tpi (pueden contener datos)
+resguardos_tpi/

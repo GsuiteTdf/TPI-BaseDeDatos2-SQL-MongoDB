@@ -1,0 +1,4 @@
+{
+  "mongodb_uri": "mongodb+srv://USUARIO:CONTRASEÑA@cluster.mongodb.net/foodstore_tpi?retryWrites=true&w=majority",
+  "database": "foodstore_tpi"
+}
